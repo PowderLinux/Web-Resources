@@ -1,2 +1,2 @@
 # Web-Resources
-A repo for website resources
+A repo for misc website resources

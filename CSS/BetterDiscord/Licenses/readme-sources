@@ -1,0 +1,22 @@
+Source Info
+
+
+ClearVision-v6 -
+
+name ClearVision
+author ClearVision Team
+version 6.3.0
+description Highly customizable theme for BetterDiscord.
+source https://github.com/ClearVision/ClearVision-v6
+website https://clearvision.gitlab.io
+license Apache
+
+
+DarkMatter -
+
+name Dark Matter
+author Tropical#8908, Hammock#3110
+version 3.0.0
+description A cold, dark & frosty theme.
+source https://github.com/DiscordStyles/DarkMatter/
+license MIT
